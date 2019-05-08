@@ -21,4 +21,5 @@ The full set of files given in the assignment can be found in the ./assignment f
 * index_dhaase.ipynb (file):  final project file
 * images (dir) : directory with visualizations
 * parkinglot (dir): directory with work files, drafts, etc. No dependencies with final submission (index_dhaase.ipynb)
+* markdown_and_images (dir): directory with all exported images and markdown from project notebook (index_dhaase.ipynb)
 * assignemnt (dir): directory with original files
