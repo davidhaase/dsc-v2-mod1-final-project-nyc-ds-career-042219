@@ -1,6 +1,11 @@
 # Module 1 Final Project—King County House Prices
 David Haase
-NYC-MHTN-DS-042219
+Cohort: NYC-MHTN-DS-042219
+Date Submitted: Wednesday, May 8, 2019
+Instructor: Fangfang Lee
+* Henry Cham
+* Andrew Sproul
+
 
 
 ## Introduction
